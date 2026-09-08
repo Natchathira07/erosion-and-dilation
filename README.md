@@ -1,4 +1,4 @@
-# EX-12 Implementation of Erosion and Dilation Using OpenCV
+# EX-09 Implementation of Erosion and Dilation Using OpenCV
 
 ## Aim
 
